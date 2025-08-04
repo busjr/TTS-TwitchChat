@@ -1,0 +1,4 @@
+edge-tts==7.0.2
+python-vlc==3.0.21203
+tts_with_rvc==0.1.9.1
+twitchio==2.0.0
