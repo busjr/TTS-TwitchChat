@@ -1,4 +1,3 @@
-import json
 import threading
 import asyncio
 import os
@@ -15,7 +14,7 @@ if __name__ == '__main__':
     thread = threading.Thread(target=run_bot)
     thread.start()
 
-    # os.system("CLS")
+    os.system("CLS")
     print("### TTS TwitchChat ###")
     print("Press Ctrl+C to stop")
     try:
