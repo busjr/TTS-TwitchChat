@@ -3,7 +3,9 @@
         "NICKNAME": "NAME_VOICE"
     },
     "setting": {
+        "token": "oauth:YOUR_TOKEN",
+        "nickname": "NICKNAME_CHANNEL_OR_BOTS_TOKEN",
         "namechannel": "CHANNEL_READ",
-        "voice": "defalt or AI"
+        "voice_mode": "defalt or AI"
     }
 }
