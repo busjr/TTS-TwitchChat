@@ -45,7 +45,7 @@ pip install twitchio==2.0.0
 ```bash
 pip install -r requirements.txt
 ```
-5. **Установите ffmpeg в системные переменные path**
+5. **Установите ffmpeg в системные переменные path**:
    • Скачайте [ffmpeg](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.0.2-full_build.7z) или скачайте архив в releases он там будет
    • Переместите разархивированную папку рядом с файлом "add ffmpeg.py"
    • Запустите ("add ffmpeg.py") от Администратора
@@ -96,19 +96,19 @@ Chat reading is handled by the [TwitchIO](https://twitchio.dev/) library.
 
 ### 📥 Installation
 
-1. **Download the project**  
+1. **Download the project**:
    • ZIP archive from GitHub  
    • or clone via Git:
 ```bash
 git clone https://github.com/busjr/TTS-TwitchChat.git
 ```
 
-2. **Change into the project folder**
+2. **Change into the project folder**:
 ```bash
 cd TTS-TwitchChat
 ```
 
-3. **Create a virtual environment**
+3. **Create a virtual environment**:
 ```bash
 python -m venv venv
 ```
@@ -116,7 +116,7 @@ python -m venv venv
 venv\Scripts\activate.bat
 ```
 
-4. **Install dependencies**
+4. **Install dependencies**:
 ```bash
 pip install edge-tts==7.0.2
 pip install tts_with_rvc==0.1.9.1
@@ -127,15 +127,12 @@ pip install twitchio==2.0.0
 ```bash
 pip install -r requirements.txt
 ```
-5. Add ffmpeg to the system PATH environment variable
+5. Add ffmpeg to the system PATH environment variable:
+   • Download ffmpeg or get the archive from the releases section where it is available
+   • Extract the folder and move it next to the "add ffmpeg.py" file
+   • Run the "add ffmpeg.py" script as Administrator
 
-Download ffmpeg or get the archive from the releases section where it is available
-
-Extract the folder and move it next to the "add ffmpeg.py" file
-
-Run the "add ffmpeg.py" script as Administrator
-
-6. **Install VLC media player** (required for audio playback):  
+7. **Install VLC media player** (required for audio playback):  
 👉 <https://www.videolan.org/vlc/>
 
 ### ⚙ Configuration
