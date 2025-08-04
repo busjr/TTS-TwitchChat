@@ -1,0 +1,9 @@
+{
+    "white_list": {
+        "NICKNAME": "NAME_VOICE"
+    },
+    "setting": {
+        "namechannel": "CHANNEL_READ",
+        "voice": "defalt or AI"
+    }
+}
