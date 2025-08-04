@@ -1,4 +1,4 @@
-# 🎙 Twitch TTS
+# 🎙 TTS-TwitchChat
 
 [RU Русский](#-русский) | [EN English](#-english)
 
