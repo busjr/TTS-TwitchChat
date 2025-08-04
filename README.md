@@ -25,6 +25,9 @@ git clone https://github.com/busjr/TTS-TwitchChat.git
 ```bash
 cd TTS-TwitchChat
 ```
+```bash
+venv\Scripts\activate.bat
+```
 
 3. **Создайте виртуальную среду**
 ```bash
@@ -42,8 +45,12 @@ pip install twitchio==2.0.0
 ```bash
 pip install -r requirements.txt
 ```
+5. **Установите ffmpeg в системные переменные path**
+   • Скачайте [ffmpeg](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-7.0.2-full_build.7z) или скачайте архив в releases он там будет
+   • Переместите разархивированную папку рядом с файлом "add ffmpeg.py"
+   • Запустите ("add ffmpeg.py") от Администратора
 
-5. **Установите VLC media player** (нужен для воспроизведения звука):  
+6. **Установите VLC media player** (нужен для воспроизведения звука):  
 👉 <https://www.videolan.org/vlc/>
 
 ### ⚙ Настройка
@@ -105,6 +112,9 @@ cd TTS-TwitchChat
 ```bash
 python -m venv venv
 ```
+```bash
+venv\Scripts\activate.bat
+```
 
 4. **Install dependencies**
 ```bash
@@ -117,8 +127,15 @@ pip install twitchio==2.0.0
 ```bash
 pip install -r requirements.txt
 ```
+5. Add ffmpeg to the system PATH environment variable
 
-5. **Install VLC media player** (required for audio playback):  
+Download ffmpeg or get the archive from the releases section where it is available
+
+Extract the folder and move it next to the "add ffmpeg.py" file
+
+Run the "add ffmpeg.py" script as Administrator
+
+6. **Install VLC media player** (required for audio playback):  
 👉 <https://www.videolan.org/vlc/>
 
 ### ⚙ Configuration
