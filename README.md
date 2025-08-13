@@ -1,6 +1,6 @@
 # 🎙 TTS-TwitchChat
 
-[RU Русский](README (ru).md) | [EN English](README.md)
+[RU Русский](<README (ru).md>) | [EN English](<README.md>)
 
 ---
 
