@@ -1,10 +1,10 @@
 # 🎙 TTS-TwitchChat
 
-[RU Русский](#-русский) | [EN English](#-english)
+[RU Русский](#ru-russkii) | [EN English](#en-english)
 
 ---
 
-## RU Русский
+## RU Русский {#ru-russkii}
 
 Озвучка чата Twitch в реальном времени для (RU, ENG) языков. Бот подключается к Twitch‑чату и озвучивает сообщения командой `!tts` с помощью двух вариантов синтеза речи:
 - `edge-tts` — нейросинтез Microsoft  
@@ -89,7 +89,7 @@ python "src\main (CMD).py"
 
 ---
 
-## EN English
+## EN English {#en-english}
 
 Real‑time Twitch chat TTS for (RU and ENG) messages. The bot connects to a Twitch chat and speaks messages triggered with the `!tts` command using two speech‑synthesis back‑ends:
 - `edge-tts` — Microsoft neural TTS  
