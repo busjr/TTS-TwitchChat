@@ -14,6 +14,8 @@ Chat reading is handled by the [TwitchIO](https://twitchio.dev/) library.
 
 ### 📥 Installation
 
+0. [Download Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
+
 1. **Download the project**:
    • ZIP archive from GitHub  
    • or clone via Git:
