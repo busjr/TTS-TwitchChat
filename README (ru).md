@@ -14,6 +14,8 @@
 
 ### 📥 Установка
 
+0. [Download Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
+
 1. **Скачайте проект**  
    • ZIP‑архив с GitHub  
    • или через Git:
@@ -89,3 +91,4 @@ python "src\main (CMD).py"
 
 
 ---
+
