@@ -56,7 +56,7 @@ pip install -r requirements.txt
    • Запустите ("add ffmpeg.py") от Администратора
 
 6. **Установите VLC media player** (нужен для воспроизведения звука)
- - <https://www.videolan.org/vlc/>
+     - <https://www.videolan.org/vlc/>
 
 ### Настройка
 
@@ -91,6 +91,7 @@ python "src\main (CMD).py"
 
 
 ---
+
 
 
 
