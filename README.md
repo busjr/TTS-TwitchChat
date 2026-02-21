@@ -1,4 +1,4 @@
-# 🎙 TTS-TwitchChat
+# TTS-TwitchChat
 
 [RU Русский](<README (ru).md>) | [EN English](<README.md>)
 
@@ -12,7 +12,7 @@ Real‑time Twitch chat TTS for (RU and ENG) messages. The bot connects to a Twi
 
 Chat reading is handled by the [TwitchIO](https://twitchio.dev/) library.
 
-### 📥 Installation
+### Installation
 
 0. [Download Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
 
@@ -56,9 +56,9 @@ pip install -r requirements.txt
    • Run the "add ffmpeg.py" script as Administrator
 
 6. **Install VLC media player** (required for audio playback):  
-👉 <https://www.videolan.org/vlc/>
+   - <https://www.videolan.org/vlc/>
 
-### ⚙ Configuration
+### Configuration
 
 1. **Rename** `config.json.example` → `config.json`
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
   - `"defolt"` — use Microsoft Edge TTS  
   - `"AI"` — use RVC AI voices
 
-### 🚀 Run
+### Run
 
 ```bash
 python "src\main (CMD).py"
