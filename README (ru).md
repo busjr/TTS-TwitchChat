@@ -1,4 +1,4 @@
-# 🎙 TTS-TwitchChat
+# TTS-TwitchChat
 
 [RU Русский](<README (ru).md>) | [EN English](<README.md>)
 
@@ -12,7 +12,7 @@
 
 Для чтения чата используется библиотека [TwitchIO](https://twitchio.dev/).
 
-### 📥 Установка
+### Установка
 
 0. [Скачайте Python 3.12.4](https://www.python.org/downloads/release/python-3124/)
 
@@ -56,9 +56,9 @@ pip install -r requirements.txt
    • Запустите ("add ffmpeg.py") от Администратора
 
 6. **Установите VLC media player** (нужен для воспроизведения звука)
-👉 <https://www.videolan.org/vlc/>
+ - <https://www.videolan.org/vlc/>
 
-### ⚙ Настройка
+### Настройка
 
 1. **Переименуйте файл** `config.json.example` → `config.json`
 
@@ -83,7 +83,7 @@ pip install -r requirements.txt
   - `"defolt"` — использовать Microsoft Edge TTS  
   - `"AI"` — использовать RVC (AI‑голоса)
 
-### 🚀 Запуск
+### Запуск
 
 ```bash
 python "src\main (CMD).py"
@@ -91,5 +91,6 @@ python "src\main (CMD).py"
 
 
 ---
+
 
 
